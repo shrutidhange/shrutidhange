@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Shruti Dhange]
+# Hi there! 👋 I'm Shruti Dhange
 
 I am a data science specialist with a Deep Learning specialization from Liverpool John Moores University and IIIT Bangalore. Skilled in supervised/unsupervised learning, regression, time series analysis, classification, and clustering. Proficient in Python, SQL, Seaborn, and Matplotlib. Expertise in Deep Neural Networks, TensorFlow, PyTorch, CNN, RNN, LSTM, and GRU. Strong in EDA, feature engineering, model building, evaluation, and hyperparameter tuning.
 
