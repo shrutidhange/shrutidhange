@@ -10,6 +10,12 @@ I am a data science specialist with a Deep Learning specialization from Liverpoo
 - Executive PG Programme in Data Science, International Institute of Information Technology, Bangalore (IIIT-B), Aug 2022 - Aug 2023
   - Statistics, Predictive Analytics using Python, Machine Learning, Data Visualization, Big Data Analytics, Deep Learning.
 
+## Internship Work
+
+1. Predictive Maintenance System for Turbo Engines
+   - Feb 2023 - Aug 2023
+   - The Predictive Maintenance System is designed to predict the remaining useful life (RUL) of turbo engines to anticipate asset state, avoid downtime, and prevent breakdowns. The system uses machine learning algorithms to analyze sensor data from turbofan jet engines and provides real-time RUL predictions.
+     
 ## Project Work
 
 1. Melanoma Detection - Multiclass classification model using a custom convolutional neural network in TensorFlow
