@@ -31,6 +31,9 @@ Feb 2023 - Sep 2023
 - Executive PG Programme in Data Science, International Institute of Information Technology, Bangalore (IIIT-B), Aug 2022 - Aug 2023
   - Statistics, Predictive Analytics using Python, Machine Learning, Data Visualization, Big Data Analytics, Deep Learning.
 
+- Bachelor of Engineering, Pune University
+  
+
 ## Internship Work
 
 1. Predictive Maintenance System for Turbo Engines
