@@ -2,6 +2,27 @@
 
 Experienced Data Scientist with an M.S. in Data Science, specializing in Generative AI. Skilled in supervised/unsupervised learning, regression, time series analysis, classification, and clustering. Proficient in Python, SQL, Seaborn, and Matplotlib, with expertise in Deep Neural Networks, TensorFlow, PyTorch. Currently, at Studiovity, researching and developing innovative features using Generative AI techniques. Past roles include predicting loan approvals and speech emotion at CodeClause and prognostics in predictive maintenance at iNeuron AI. Strong in EDA, feature engineering, model building, evaluation, and hyperparameter tuning. Excels in solving real-world challenges and delivering high-impact solutions.
 
+## Work Experience
+
+### Studiovity — Data Scientist (Generative AI)
+Sep 2023 - Current
+- Spearheading research and development in Generative AI techniques, including stable diffusion, Google Dream Booth, Text Inversion, LoRa, and Perfusion.
+- Innovating to introduce groundbreaking features for products.
+
+### CodeClause — Data Science Intern
+Aug 2023 - Sep 2023
+- Developed machine learning models for predicting loan approvals and speech emotion, contributing to real-world problem-solving in financial and audio data domains.
+- Conducted data preprocessing, feature engineering, and model selection to enhance accuracy and effectiveness.
+- Implemented classification algorithms and regression techniques using Python, scikit-learn, and TensorFlow.
+- Gained hands-on experience in handling imbalanced datasets and optimizing model parameters.
+
+### iNeuron AI — Data Science Intern
+Feb 2023 - Sep 2023
+- Contributed to predictive maintenance projects, focusing on prognostics and health management.
+- Analyzed run-to-failure simulation data from turbofan jet engines provided by The Prognostics CoE at NASA Ames.
+- Developed models to predict the remaining useful life (RUL) of each engine, aiding in asset state anticipation and downtime prevention in industrial settings.
+
+
 ## Education
 
 - M.S. in Data Science, Liverpool John Moores University, Aug 2022 - Feb 2024
