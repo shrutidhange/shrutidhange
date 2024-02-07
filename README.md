@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shruti Dhange
 
-I am a data science specialist with a Deep Learning specialization from Liverpool John Moores University and IIIT Bangalore. Skilled in supervised/unsupervised learning, regression, time series analysis, classification, and clustering. Proficient in Python, SQL, Seaborn, and Matplotlib. Expertise in Deep Neural Networks, TensorFlow, PyTorch, CNN, RNN, LSTM, and GRU. Strong in EDA, feature engineering, model building, evaluation, and hyperparameter tuning.
+Experienced Data Scientist with an M.S. in Data Science, specializing in Generative AI. Skilled in supervised/unsupervised learning, regression, time series analysis, classification, and clustering. Proficient in Python, SQL, Seaborn, and Matplotlib, with expertise in Deep Neural Networks, TensorFlow, PyTorch. Currently, at Studiovity, researching and developing innovative features using Generative AI techniques. Past roles include predicting loan approvals and speech emotion at CodeClause and prognostics in predictive maintenance at iNeuron AI. Strong in EDA, feature engineering, model building, evaluation, and hyperparameter tuning. Excels in solving real-world challenges and delivering high-impact solutions.
 
 ## Education
 
